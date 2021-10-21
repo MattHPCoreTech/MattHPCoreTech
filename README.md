@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @MattHPCoreTech
+- 👀 I’m interested in Golang & Rust 
+- 🌱 I’m currently learning Go & Rust
+- 💞️ I’m looking to collaborate on EU based Go & Rust
+- 📫 How to reach me +44 7 903 105 747 or at matthew.h@coretechrecruitment.com
+- If you are looking for an EU based or Remote role please get in touch as I am currently hiring for several
